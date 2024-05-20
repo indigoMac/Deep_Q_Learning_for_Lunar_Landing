@@ -39,8 +39,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Licence 
 
 This project is licensed under the MIT License.
-
-```vbnet
-
-You can copy this text and paste it directly into a `README.md` file in your GitHub repository. Make sure to replace `indigoMac` with your actual GitHub username. If you have any additional sections or information to include, feel free to edit it further!
-```
